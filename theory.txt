@@ -1,0 +1,11 @@
+string module:The string module provides additional tools to manipulate.
+Python string module contains a single utility function- capwords(s,sep=None).
+This function split the specified string into words using str.spilt then capitalize each word using str
+
+capwords(s,sep=None)
+In python, string capwords() method is used to capitalize al the words in the string using split() method
+syntax: string.capwords(string,sep=None)
+Return Value: Returns a formatted string after above operations.
+
+enumerate:enumerate() allows us to iterate through a sequence but it keeps track of both the index and the element. enumerate(iterable, start=0)
+ The enumerate() function takes in an iterable as an argument, such as a list, string, tuple, or dictionary.
